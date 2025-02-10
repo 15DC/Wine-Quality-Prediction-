@@ -21,7 +21,7 @@
 Clone the repository
 
 ```bash
-https://github.com/SagarNikam09/End-to-End-ML-project
+https://github.com/(https://github.com/15DC/Wine-Quality-Prediction-)
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -63,7 +63,7 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow \
+MLFLOW_TRACKING_URI=https: \
 MLFLOW_TRACKING_USERNAME= \
 MLFLOW_TRACKING_PASSWORD= \
 python script.py
